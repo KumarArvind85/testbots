@@ -1,0 +1,8 @@
+Id,ElementType,PrimaryAttributes,SecondaryAttributes,AutomationDecision
+1,Input,type,required-email,Y
+2,Input,type-class,email,Y
+3,Input,type-class-name,email-required,N
+4,Input,type-class-name,required,Y
+5,Input,type,email,N
+6,Input,name,value,Y
+7,Input,class,email,Y

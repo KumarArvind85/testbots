@@ -1,0 +1,7 @@
+1,Input,type,required-email
+2,Input,type-class,email
+3,Input,type-class-name,email-required
+4,Input,type-class-name,required
+5,Input,type,email
+6,Input,name,value
+7,Input,class,email
